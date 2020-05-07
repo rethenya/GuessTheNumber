@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+        
+
+#textDiv{
+  padding:50px;
+}
+
+#numDiv{
+  padding:50px;
+}
+
+#buttonDiv{
+  margin:30px;
+}
+
+#subButton{
+  margin:30px;
+}
+
+#playButton{
+  margin:30px;
+}
+
+  @media only screen and (max-width: 800px) {
+    .result > p {
+      font-size: 26px;
+      margin: 3%;
+      text-align: center;
+    }
+  }
+  
